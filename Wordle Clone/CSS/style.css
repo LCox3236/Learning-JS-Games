@@ -48,3 +48,16 @@ ul li {
 #answerOutput{
     display: none;
 }
+
+
+#restartButton{
+    width: 200px;
+    height: 50px;
+    font-size: x-large;
+    font-weight: bold;
+    align-self: center;
+    display: none;
+    margin-top: 25px;
+    
+
+}
